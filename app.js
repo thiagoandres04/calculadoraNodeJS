@@ -28,4 +28,4 @@ rl.question('Ingrese el primer número: ', (num1) => {
       rl.close();
     });
   });
-});
+}); 
